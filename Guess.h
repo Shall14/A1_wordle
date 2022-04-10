@@ -1,6 +1,5 @@
 #ifndef GUESS_H
 #define GUESS_H
-//#include<bits/stdc++.h>
 #include<string>
 #include<vector>
 #include<map>

@@ -9,6 +9,7 @@ using namespace std;
 
 #include "Guess.h"
 
+// Guess function will check using the guessTheWord function if the user has given correct input or not.
 
 guess::guess(string word)
 {

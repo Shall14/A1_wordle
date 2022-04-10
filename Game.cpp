@@ -11,6 +11,7 @@ using namespace std;
 #include "Game.h"
 
 
+// Firstly this function will be called by the main and after that depending on the inputs entered by the user it will call the other functions
 
 
 Game::Game() :guessArray(6) {
